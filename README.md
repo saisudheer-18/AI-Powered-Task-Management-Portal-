@@ -717,15 +717,54 @@ API Docs:
 http://localhost:8080/api-docs
 ```
 
-# ⚡ Installation & Setup
+---
 
-## Clone Repository
+# 📸 Screenshots
 
-```bash
-git clone (https://github.com/saisudheer-18/AI-Powered-Task-Management-Portal)
-```
+## Login Page
+
+<img width="948" height="470" alt="image" src="https://github.com/user-attachments/assets/b1329ba0-c690-43a5-8904-23d73cc1fb86" />
+
 
 ---
+
+## Register Page
+
+<img width="956" height="471" alt="image" src="https://github.com/user-attachments/assets/5f762bfb-dd3f-4dd8-988c-d99e661e17e7" />
+
+
+---
+
+## Dashboard
+
+<img width="946" height="477" alt="image" src="https://github.com/user-attachments/assets/b7821fa1-f8cc-4813-a688-bc6ddaa5b0ed" />
+
+
+---
+
+## Create Task
+
+<img width="956" height="460" alt="image" src="https://github.com/user-attachments/assets/3ae3aac6-7179-4016-a703-dbd344477c6d" />
+
+
+---
+
+## Task List
+
+<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/2ecc84cf-236f-4451-941a-9bf7e1c537b7" />
+
+
+---
+
+## AI Task Generator
+
+<img width="959" height="484" alt="image" src="https://github.com/user-attachments/assets/6b30a3df-f4db-4a59-9de6-ed4683ef8c9e" />
+
+
+---
+
+# ⚡ Installation & Setup
+
 
 ## Backend Setup
 
